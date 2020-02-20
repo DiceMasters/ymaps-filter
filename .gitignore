@@ -2,6 +2,9 @@
 node_modules
 /dist
 
+# windows ini files
+desktop.ini
+
 # local env files
 .env.local
 .env.*.local
