@@ -1,4 +1,4 @@
-# chaihona-geo
+# Yandex Maps GeoInput
 
 ## Project setup
 ```
